@@ -166,7 +166,7 @@ namespace Laboratorio_16._1
                 t.Text = t.Text + b0.Text;
         }
 
-        // Boton Limpiar
+        // Boton Limpiar Tablero
         protected void clr_Click(object sender, EventArgs e)
         {
             t.Text = "";
